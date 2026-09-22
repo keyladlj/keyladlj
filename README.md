@@ -11,7 +11,7 @@ Soy **Keyla** y actualmente estoy formándome en el ámbito del desarrollo web y
 ## 🎓 **Mis estudios son...**  
   **Ciclo Superior de Administración de Sistemas Informáticos en Red (ASIR)**.
 
-##⚡ **Un dato curioso sobre mí...**  
+## ⚡ **Un dato curioso sobre mí...**  
   Me gusta leer **thrillers psicológicos, novelas de suspense y comedias románticas**. 📚  
   También disfruto viendo **series y películas** 🎬 y escuchando música. 🎶  
   Además, formo parte de una **banda de música**, donde toco la **percusión**. 🥁
