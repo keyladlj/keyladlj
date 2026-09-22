@@ -56,18 +56,6 @@ Durante mis estudios estoy ampliando mis conocimientos en:
 
 ---
 
-## 💻 Tecnologías
-
-| 💡 Tecnología | 📚 Nivel / Uso |
-|:---:|:---|
-| 🐍 **Python** | Aprendiendo |
-| 🌐 **HTML** | Aprendiendo |
-| 🎨 **CSS** | Aprendiendo |
-| 📄 **XML** | Aprendiendo |
-| 🗄️ **SQL** | Aprendiendo |
-
----
-
 ## 🌟 ¡Gracias por visitar mi perfil!
 
 > 💡 *Aprendiendo, creando y mejorando un poco cada día.* 🚀
