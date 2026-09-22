@@ -1,17 +1,73 @@
-# ¡Hola! 👋
+# 👋 ¡Hola! Soy Keyla
 
-Soy **Keyla** y actualmente estoy formándome en el ámbito del desarrollo web y la programación. 💻
+💻 **Estudiante de Desarrollo de Aplicaciones Web (DAW)**  
+🚀 Apasionada por la programación, el desarrollo web y la tecnología.
 
-## 🔭 **Actualmente estoy trabajando en...**  
-  Proyectos utilizando **Python** y lenguajes de marcas como **HTML, CSS y XML**, entre otros.
+---
 
-## 🌱 **Actualmente estoy aprendiendo...**  
-  Un **Ciclo Superior de Desarrollo de Aplicaciones Web (DAW)**.
+## 🔭 Actualmente estoy trabajando en...
 
-## 🎓 **Mis estudios son...**  
-  **Ciclo Superior de Administración de Sistemas Informáticos en Red (ASIR)**.
+💡 Desarrollando proyectos y aprendiendo diferentes tecnologías:
 
-## ⚡ **Un dato curioso sobre mí...**  
-  Me gusta leer **thrillers psicológicos, novelas de suspense y comedias románticas**. 📚  
-  También disfruto viendo **series y películas** 🎬 y escuchando música. 🎶  
-  Además, formo parte de una **banda de música**, donde toco la **percusión**. 🥁
+🐍 **Python**  
+🌐 **HTML**  
+🎨 **CSS**  
+📄 **XML**  
+...y otros lenguajes y herramientas relacionados con el desarrollo web.
+
+---
+
+## 🌱 Actualmente estoy aprendiendo
+
+🎓 **Ciclo Superior de Desarrollo de Aplicaciones Web (DAW)**
+
+Durante mis estudios estoy ampliando mis conocimientos en:
+
+- 💻 Programación
+- 🌐 Desarrollo web
+- 🗄️ Bases de datos
+- ⚙️ Desarrollo de aplicaciones
+- 🔧 Herramientas y tecnologías web
+
+---
+
+## 🎓 Mis estudios
+
+📚 **Ciclo Superior de Administración de Sistemas Informáticos en Red (ASIR)**
+
+🖥️ Actualmente continúo mi formación realizando el  
+**Ciclo Superior de Desarrollo de Aplicaciones Web (DAW)**.
+
+---
+
+## ⚡ Sobre mí
+
+📚 Me encanta leer, especialmente:
+
+- 🧠 Thrillers psicológicos
+- 🔎 Novelas de suspense
+- 💕 Novelas románticas
+- 😂 Comedias románticas
+
+🎬 También disfruto viendo **series y películas**.
+
+🎶 La música es otra de mis grandes aficiones.  
+🥁 Formo parte de una **banda de música**, donde toco la **percusión**.
+
+---
+
+## 💻 Tecnologías
+
+| 💡 Tecnología | 📚 Nivel / Uso |
+|:---:|:---|
+| 🐍 **Python** | Aprendiendo |
+| 🌐 **HTML** | Aprendiendo |
+| 🎨 **CSS** | Aprendiendo |
+| 📄 **XML** | Aprendiendo |
+| 🗄️ **SQL** | Aprendiendo |
+
+---
+
+## 🌟 ¡Gracias por visitar mi perfil!
+
+> 💡 *Aprendiendo, creando y mejorando un poco cada día.* 🚀
