@@ -16,10 +16,6 @@
 
 💡 Desarrollando proyectos y aprendiendo diferentes tecnologías:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,xml" />
-</p>
-
 | Tecnología | |
 |:---:|:---|
 | 🐍 **Python** | Programación |
