@@ -72,8 +72,6 @@ Durante mis estudios estoy ampliando mis conocimientos en:
 🎬 También disfruto viendo **series y películas**.
 
 🎶 La música es otra de mis grandes aficiones.  
-🥁 Formo parte de una **banda de música**, donde toco la **percusión**.
-
 ---
 
 <div align="center">
