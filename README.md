@@ -1,7 +1,14 @@
+<div align="center">
+
 # 👋 ¡Hola! Soy Keyla
 
-💻 **Estudiante de Desarrollo de Aplicaciones Web (DAW)**  
+### 💻 Estudiante de Desarrollo de Aplicaciones Web (DAW)
+
 🚀 Apasionada por la programación, el desarrollo web y la tecnología.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%"/>
+
+</div>
 
 ---
 
@@ -9,31 +16,44 @@
 
 💡 Desarrollando proyectos y aprendiendo diferentes tecnologías:
 
-🐍 **Python**  
-🌐 **HTML**  
-🎨 **CSS**  
-📄 **XML**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,xml" />
+</p>
+
+| Tecnología | |
+|:---:|:---|
+| 🐍 **Python** | Programación |
+| 🌐 **HTML** | Desarrollo web |
+| 🎨 **CSS** | Diseño y estilos web |
+| 📄 **XML** | Lenguajes de marcas |
+
 ...y otros lenguajes y herramientas relacionados con el desarrollo web.
 
 ---
 
 ## 🌱 Actualmente estoy aprendiendo
 
-🎓 **Ciclo Superior de Desarrollo de Aplicaciones Web (DAW)**
+<div align="center">
+
+### 🎓 Ciclo Superior de Desarrollo de Aplicaciones Web (DAW)
+
+</div>
 
 Durante mis estudios estoy ampliando mis conocimientos en:
 
-- 💻 Programación
-- 🌐 Desarrollo web
-- 🗄️ Bases de datos
-- ⚙️ Desarrollo de aplicaciones
-- 🔧 Herramientas y tecnologías web
+<div align="center">
+
+| 💻 | 🌐 | 🗄️ | ⚙️ | 🔧 |
+|:---:|:---:|:---:|:---:|:---:|
+| **Programación** | **Desarrollo web** | **Bases de datos** | **Desarrollo de aplicaciones** | **Herramientas y tecnologías web** |
+
+</div>
 
 ---
 
 ## 🎓 Mis estudios
 
-📚 **Ciclo Superior de Administración de Sistemas Informáticos en Red (ASIR)**
+### 📚 Ciclo Superior de Administración de Sistemas Informáticos en Red (ASIR)
 
 🖥️ Actualmente continúo mi formación realizando el  
 **Ciclo Superior de Desarrollo de Aplicaciones Web (DAW)**.
@@ -56,6 +76,14 @@ Durante mis estudios estoy ampliando mis conocimientos en:
 
 ---
 
+<div align="center">
+
 ## 🌟 ¡Gracias por visitar mi perfil!
 
 > 💡 *Aprendiendo, creando y mejorando un poco cada día.* 🚀
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+</div>
