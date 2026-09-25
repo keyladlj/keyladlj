@@ -2,6 +2,7 @@
 
 # 👋 ¡Hola! Soy Keyla
 
+### 💻 Tecnica en Administración de Sistemas Informáticos en REdEstudiante de Desarrollo de Aplicaciones Web (DAW)
 ### 💻 Estudiante de Desarrollo de Aplicaciones Web (DAW)
 
 🚀 Apasionada por la programación, el desarrollo web y la tecnología.
@@ -12,21 +13,6 @@
 
 ---
 
-## 🔭 Actualmente estoy trabajando en...
-
-💡 Desarrollando proyectos y aprendiendo diferentes tecnologías:
-
-| Tecnología | |
-|:---:|:---|
-| 🐍 **Python** | Programación |
-| 🌐 **HTML** | Desarrollo web |
-| 🎨 **CSS** | Diseño y estilos web |
-| 📄 **XML** | Lenguajes de marcas |
-
-...y otros lenguajes y herramientas relacionados con el desarrollo web.
-
----
-
 ## 🌱 Actualmente estoy aprendiendo
 
 <div align="center">
@@ -34,18 +20,6 @@
 ### 🎓 Ciclo Superior de Desarrollo de Aplicaciones Web (DAW)
 
 </div>
-
-Durante mis estudios estoy ampliando mis conocimientos en:
-
-<div align="center">
-
-| 💻 | 🌐 | 🗄️ | ⚙️ | 🔧 |
-|:---:|:---:|:---:|:---:|:---:|
-| **Programación** | **Desarrollo web** | **Bases de datos** | **Desarrollo de aplicaciones** | **Herramientas y tecnologías web** |
-
-</div>
-
----
 
 ## 🎓 Mis estudios
 
