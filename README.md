@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Keyla
 
-### 💻 Tecnica en Administración de Sistemas Informáticos en REdEstudiante de Desarrollo de Aplicaciones Web (DAW)
+### 💻 Tecnica en Administración de Sistemas Informáticos en Red (ASIR)
 ### 💻 Estudiante de Desarrollo de Aplicaciones Web (DAW)
 
 🚀 Apasionada por la programación, el desarrollo web y la tecnología.
