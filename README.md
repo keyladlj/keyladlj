@@ -32,7 +32,7 @@
 
 ## ⚡ Sobre mí
 
-📚 Me encanta leer, especialmente:
+📚 Me gusta **leer**, especialmente:
 
 - 🧠 Thrillers psicológicos
 - 🔎 Novelas de suspense
